@@ -1,2 +1,2 @@
 google-cloud-speech
-streamlit==0.77.0
+streamlit==0.80.0
